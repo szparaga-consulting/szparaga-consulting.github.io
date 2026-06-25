@@ -1,0 +1,2 @@
+# szparaga-consulting
+Szparaga Consulting
